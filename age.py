@@ -4,7 +4,7 @@ if n>18:
     print("You are a adult")
 elif n>60:
     print("You are a senior citizen")
-elif n>90:
+elif n>80:
     print("You are about to be dead")
 else:
     print("You are a kid")
