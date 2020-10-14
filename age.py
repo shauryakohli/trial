@@ -7,5 +7,6 @@ elif n>60:
     print("You are a senior citizen")
 elif n>70:
     print("You are about to be dead")
+    print("Don't worry be happy")
 else:
     print("You are a kid")
