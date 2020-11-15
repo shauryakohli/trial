@@ -1,2 +1,2 @@
 # trial
-trial repository to demonstrate some commands
+trial repository to learn and expore git commands using command prompt
